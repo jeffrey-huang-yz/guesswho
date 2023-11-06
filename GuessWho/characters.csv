@@ -1,0 +1,25 @@
+Name,hairColour,clothingColour,wearsHat,hasClaw,hasVehicle,hasBeard,wearsEarings,wearsHelmet,wearsTie,hasBeak,hasTail,hasGuitar,hasScales,filename
+Fred Flintstone,black,orange,false,false,false,true,false,false,true,false,false,false,false,fred-flintstone
+Wilma Flintstone,red,white,false,false,false,false,false,false,false,false,false,false,false,wilma-flintstone
+Pebbles Flintstone,red,green,false,false,false,false,false,false,false,false,false,false,false,pebbles-flintstone
+Dino,black,purple,false,true,false,false,false,false,false,true,true,true,true,dino
+Barney Rubble,yellow,brown,false,false,false,true,false,false,true,false,false,false,false,barney-rubble
+Betty Rubble,black,green,false,false,false,false,false,false,true,false,false,false,false,betty-rubble
+Bamm-Bamm Rubble,white,orange,true,false,false,false,false,false,true,false,false,false,false,bamm-bamm-rubble
+Mr. Slate,none,brown,false,false,false,true,false,false,true,false,false,false,false,mr-slate
+Great Gazoo,none,green,true,false,false,false,false,true,false,false,false,false,false,great-gazoo
+Arnold,yellow,green,true,false,true,false,false,false,false,false,false,false,false,arnold
+Hoppy,black,green,false,false,false,false,false,false,true,true,false,false,true,hoppy
+Bird,red,red,false,true,false,false,false,false,false,true,true,false,false,bird
+Baby Puss,brown,yellow,false,true,false,true,false,false,false,false,true,false,false,baby-puss
+Joe Rockhead,black,red,true,false,false,true,false,true,true,false,false,false,false,joe-rockhead
+Roxy Rubble,pink,pink,false,false,false,false,false,false,false,false,false,false,false,roxy-rubble
+Stoney Curtis,black,purple,false,false,true,false,false,false,false,false,false,false,false,stoney-curtis
+Perry Masonry,black,purple,false,false,false,true,false,false,false,false,false,false,false,perry-masonry
+Pearl Slaghoople,red,pink,true,false,false,false,true,true,false,false,false,false,false,pearl-slaghoople
+Wayouts,orange,white,false,false,false,false,false,true,false,false,false,false,false,wayouts
+Gruesomes,pink,green,false,false,false,false,false,false,false,false,false,false,false,the-gruesomes
+Tom Cat,black,grey,false,false,false,true,false,false,false,false,false,false,false,tom
+Yogi Bear,orange,brown,true,false,false,false,true,true,false,false,false,false,false,yogi-bear
+Snagglepuss,pink,pink,false,false,false,false,false,false,true,false,true,false,false,snagglepuss
+Scrabby Doo,brown,brown,false,false,false,false,false,false,false,false,false,false,false,scrappy-doo
